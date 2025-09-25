@@ -1,0 +1,1 @@
+Atualmente, de 24/09/2025, estou cursando o segundo ano do ensino médio, e comecei a aprender python dia 22/09/2025, esse repositório é somente, e exclusivamente para meu uso durante o meu processo de aprendizagem, outro será criado quando eu atingir o nivel que quero, e começar a fazer projetos mais sérios.
