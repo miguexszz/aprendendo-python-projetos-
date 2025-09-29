@@ -18,10 +18,6 @@ class ContaBancária:
         else:
             print(f"Você não tem saldo o suficiente, precisa de {valor}, mas você só tem {self.saldo}")
 
-
-
-
-
 conta_joao = ContaBancária("João Silva")
 conta_joao.depositar(500)
 print(conta_joao.saldo)
