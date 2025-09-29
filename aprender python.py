@@ -148,7 +148,14 @@ maria = Pessoa("Maria", 25, "Cientista de Dados")
 maria.apresentar()
 print(maria.profissão)
 
+# HERANÇA EM POO
 
+
+class Pessoinha(Pessoa):
+    pass
+# Usando isso, a classe Pessoinha vai herdar TUDO da classe mãe, que é a Pessoa, fazendo assim, 
+# com que tudo que esteja dentro da Pessoa, funcione aqui na Pessoinha.
+# A herança só é útil quando a classe filha precisa fazer algo a mais ou de forma diferente da classe mãe.
 
 
 
